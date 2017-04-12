@@ -1,40 +1,57 @@
-# BCS IoM talking points
-## Data:
+
+# Data:
 * National Innovation and Science Agenda - http://innovation.gov.au/
 * PDPS - https://www.dpmc.gov.au/sites/default/files/publications/aust_govt_public_data_policy_statement_1.pdf
 * Data61 - https://www.data61.csiro.au/
-### Open Data Platforms
+## Open Data Platforms
 There are three main focus areas around Open Data Platforms  
-1. Data.gov.au - http://www.data.gov.au
+### Data.gov.au - http://www.data.gov.au
   * Open Data Index (2016 - 2nd) - http://global.survey.okfn.org/
   * Open Data Baromoeter (2015 - 10th) - http://opendatabarometer.org/data-explorer/?_year=2015&indicator=ODB&open=AUS
   * OECD OurDATA (tbc) - http://www.oecd.org/gov/digital-government/open-government-data.htm
   * OpenDataWatch ODIN (2016 - 21st) - http://odin.opendatawatch.com/
   * Toolkit - http://toolkit.data.gov.au
   * Data.gov.au GitHub - https://github.com/datagovau
-2. NationalMap- http://nationalmap.gov.au/
+### NationalMap- http://nationalmap.gov.au/
   * Based on TerriaJS - http://terria.io/
   * csv-geo-au - https://github.com/TerriaJS/nationalmap/wiki/csv-geo-au
   * AREMI - http://nationalmap.gov.au/renewables
   * NationalMap GitHub - https://github.com/terriajs/nationalmap
-3. PfOD projects - https://www.data61.csiro.au/en/Collaborate-with-us/Government/PFOD-Projects
+### PfOD projects - https://www.data61.csiro.au/en/Collaborate-with-us/Government/PFOD-Projects
   * Making Australian Government Data Available - http://preview.data.gov.au/ and http://search.data.gov.au/
   * Tiger Teams
-### GovHack - http://www.govhack.org/
+## GovHack - http://www.govhack.org/
   * IP Nova - https://ipnova.ipaustralia.gov.au/
-  * Openbudget.org - http://theopenbudget.org/
+  * Openbudget.org - http://theopenbudget.org/ (http://data.gov.au/dataset/budget-2016-17-tables-and-data)
   * Lovemetender.com.au - http://lovemetender.com.au/
-## Digital
-DTA - http://dta.gov.au/
+## Open data use cases of interest - http://data.gov.au/showcase
+  * "Australian Domestic Airlines" on Kaggle - https://www.kaggle.com/alphajuliet/d/alphajuliet/au-dom-traffic/dom-city-pairs/notebook
+  * "Unusual Pet Names" at the Guardian - https://www.theguardian.com/news/datablog/ng-interactive/2016/aug/05/most-popular-and-unusual-australian-dog-names-and-breeds-revealed
+  * "Top 50 Highest Paying Jobs" at the SMH - http://www.smh.com.au/business/workplace-relations/australias-top-50-highest-paying-jobs-20161204-gt3uzx.html
+  * Corporate Tax Transparency - http://data.gov.au/dataset/corporate-transparency
+  * Safer Homes from the NRMA - https://saferhomes.nrma.com.au/
+  * Innovation Map - https://www.industry.gov.au/Office-of-the-Chief-Economist/Publications/AustralianIndustryReport/innovation-map.html
+  * Industry Map - https://industry.gov.au/Office-of-the-Chief-Economist/Publications/AustralianIndustryReport/industry-map.html
+  * Real Words, Imagined Tweets - http://hansard-interjections.herokuapp.com/tweets/
+
+# Digital
+## Digital Transformation Agency - http://dta.gov.au/
   * Digital service standard - https://www.dta.gov.au/standard/
   * Dashboards - https://dashboard.gov.au/
   * Digital Marketplace - https://marketplace.service.gov.au/
-  * Exemplars
+  * Exemplars - https://www.dta.gov.au/what-we-do/exemplars/
   * DTA GitHub - https://github.com/AusDTO
-### Delivery
-GovCMS - https://www.govcms.gov.au/
+
+# Delivery
+## GovCMS - https://www.govcms.gov.au/
   * Drupal Distribution - https://www.drupal.org/
   * Huge Uptake - https://www.govcms.gov.au/dashboard
   * State of the environment - https://soe.environment.gov.au/
     * good example of charts and maps - https://soe.environment.gov.au/theme/biodiversity/topic/2016/terrestrial-plant-and-animal-species-threatened-species-lists
   * GovCMS GitHub - https://github.com/govCMS/
+
+# Digital and Data skills
+  * APS Data Literacy Program - http://www.apsc.gov.au/learn-and-develop/aps-data-literacy
+  * APS Data Fellowships - https://www.dpmc.gov.au/public-data/data-fellowship
+  * Code for Australia - http://www.codeforaustralia.org/
+  * ODI Queensland - http://queensland.theodi.org/home/learning/courses/
