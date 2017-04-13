@@ -19,12 +19,14 @@ There are three main focus areas around Open Data Platforms
   * NationalMap GitHub - https://github.com/terriajs/nationalmap
 ### PfOD projects - https://www.data61.csiro.au/en/Collaborate-with-us/Government/PFOD-Projects
   * Making Australian Government Data Available - http://preview.data.gov.au/ and http://search.data.gov.au/
+  * MAGDA GitHub - https://github.com/TerriaJS/magda
   * Tiger Teams
 ## GovHack - http://www.govhack.org/
   * IP Nova - https://ipnova.ipaustralia.gov.au/
   * Openbudget.org - http://theopenbudget.org/ (http://data.gov.au/dataset/budget-2016-17-tables-and-data)
   * Lovemetender.com.au - http://lovemetender.com.au/
 ## Open data use cases of interest - http://data.gov.au/showcase
+  * Open Council Data - https://opencouncildata.org/
   * "Australian Domestic Airlines" on Kaggle - https://www.kaggle.com/alphajuliet/d/alphajuliet/au-dom-traffic/dom-city-pairs/notebook
   * "Unusual Pet Names" at the Guardian - https://www.theguardian.com/news/datablog/ng-interactive/2016/aug/05/most-popular-and-unusual-australian-dog-names-and-breeds-revealed
   * "Top 50 Highest Paying Jobs" at the SMH - http://www.smh.com.au/business/workplace-relations/australias-top-50-highest-paying-jobs-20161204-gt3uzx.html
@@ -49,6 +51,8 @@ There are three main focus areas around Open Data Platforms
   * State of the environment - https://soe.environment.gov.au/
     * good example of charts and maps - https://soe.environment.gov.au/theme/biodiversity/topic/2016/terrestrial-plant-and-animal-species-threatened-species-lists
   * GovCMS GitHub - https://github.com/govCMS/
+## Cloud Services Panel - https://www.finance.gov.au/policy-guides-procurement/cloud-services-panel/
+  * Whole-of-Government approach to cloud computing
 
 # Digital and Data skills
   * APS Data Literacy Program - http://www.apsc.gov.au/learn-and-develop/aps-data-literacy
