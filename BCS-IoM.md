@@ -23,10 +23,17 @@ There are three main focus areas around Open Data Platforms
   * Tiger Teams
 ## GovHack - http://www.govhack.org/
   * IP Nova - https://ipnova.ipaustralia.gov.au/
-  * Openbudget.org - http://theopenbudget.org/ (http://data.gov.au/dataset/budget-2016-17-tables-and-data)
+    * https://data.gov.au/dataset/intellectual-property-government-open-live-data
+  * Openbudget.org - http://theopenbudget.org/
+    * http://data.gov.au/dataset/budget-2016-17-tables-and-data
   * Lovemetender.com.au - http://lovemetender.com.au/
+    * http://data.gov.au/dataset/historical-australian-government-contract-data
+    * http://data.gov.au/dataset/austender-contract-notice-export
+  * GovTree - http://govtree.io/
+    * https://data.gov.au/dataset/directory-gov-au-full-data-export
 ## Open data use cases of interest - http://data.gov.au/showcase
   * Open Council Data - https://opencouncildata.org/
+  * Addressify - http://www.addressify.com.au/
   * "Australian Domestic Airlines" on Kaggle - https://www.kaggle.com/alphajuliet/d/alphajuliet/au-dom-traffic/dom-city-pairs/notebook
   * "Unusual Pet Names" at the Guardian - https://www.theguardian.com/news/datablog/ng-interactive/2016/aug/05/most-popular-and-unusual-australian-dog-names-and-breeds-revealed
   * "Top 50 Highest Paying Jobs" at the SMH - http://www.smh.com.au/business/workplace-relations/australias-top-50-highest-paying-jobs-20161204-gt3uzx.html
