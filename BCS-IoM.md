@@ -1,8 +1,11 @@
-
-# Data:
+# Setting the Scene
 * National Innovation and Science Agenda - http://innovation.gov.au/
 * PDPS - https://www.dpmc.gov.au/sites/default/files/publications/aust_govt_public_data_policy_statement_1.pdf
 * Data61 - https://www.data61.csiro.au/
+* Open Data Charter - https://blog.data.gov.au/news-media/blog/australia-adopts-international-open-data-charter
+* Open Government Partnership - http://ogpau.pmc.gov.au/
+
+# Data:
 ## Open Data Platforms
 There are three main focus areas around Open Data Platforms  
 ### Data.gov.au - http://www.data.gov.au
