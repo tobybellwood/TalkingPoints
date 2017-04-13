@@ -1,11 +1,11 @@
 # Introduction
-* National Innovation and Science Agenda - http://innovation.gov.au/
-* PDPS - https://www.dpmc.gov.au/sites/default/files/publications/aust_govt_public_data_policy_statement_1.pdf
-* Data61 - https://www.data61.csiro.au/
-  * N1 Analytics - http://www.n1analytics.com
-  * Regulation as a Platform - https://digital-legislation.net
-* Open Data Charter - https://blog.data.gov.au/news-media/blog/australia-adopts-international-open-data-charter
-* Open Government Partnership - http://ogpau.pmc.gov.au/
+  * National Innovation and Science Agenda - http://innovation.gov.au/
+  * PDPS - https://www.dpmc.gov.au/sites/default/files/publications/aust_govt_public_data_policy_statement_1.pdf
+  * Data61 - https://www.data61.csiro.au/
+    * N1 Analytics - http://www.n1analytics.com
+    * Regulation as a Platform - https://digital-legislation.net
+  * Open Data Charter - https://blog.data.gov.au/news-media/blog/australia-adopts-international-open-data-charter
+  * Open Government Partnership - http://ogpau.pmc.gov.au/
 
 # Data:
 ## Open Data Platforms
